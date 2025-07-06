@@ -1,2 +1,2 @@
 # chatgpt
-questin and answer with chatgpt and pdf files
+This is question and answer system with chatgpt based on pdf files.
